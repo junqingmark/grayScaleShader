@@ -1,0 +1,3 @@
+/home/henry/src_test/learnOpenGL/grayscaleShader/build/CMakeFiles/edit_cache.dir
+/home/henry/src_test/learnOpenGL/grayscaleShader/build/CMakeFiles/rebuild_cache.dir
+/home/henry/src_test/learnOpenGL/grayscaleShader/build/CMakeFiles/grayscale.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -g    CMakeFiles/grayscale.dir/main.cpp.o  -o grayscale -rdynamic -lglfw -lGLEW -lGL -lfreeimage 
